@@ -1,4 +1,4 @@
-## Sentiment Mining and Domain Adaptation on Twitter
+# Sentiment Mining and Domain Adaptation on Twitter
 ----------------------------------------------------
 ![alt tag](https://git.gitbook.com/raw/caiomsouza/u-tad-final-project/master/images/social_sentiment_logo.png?token=Y2Fpb21zb3V6YTo5YTllZmJhYi03NDg5LTQ4YTUtYThjMy05MDM2Yjc5ODgyMmM%3D)
 ----------------------------------------------------
